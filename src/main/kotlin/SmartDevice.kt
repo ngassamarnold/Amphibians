@@ -1,13 +1,13 @@
 open class SmartDevice protected constructor(val name: String, val category: String) {
     constructor(name: String, category: String, statusCode: Int) : this(name, category) {
         deviceStatus = when (statusCode) {
-            0 -> "offline"
-            1 -> "online"
+            0 -> "off"
+            1 -> "on"
             else -> "unknown"
         }
     }
 
-    var deviceStatus = "online"
+    var deviceStatus = "on"
         protected set
 
     open val deviceType= "unknown"
@@ -18,5 +18,9 @@ open class SmartDevice protected constructor(val name: String, val category: Str
 
     open fun turnOff(){
         deviceStatus="off"
+    }
+
+    fun printDeviceInfo(){
+        println("Device name: $name, category: $category, type: $deviceType")
     }
 }

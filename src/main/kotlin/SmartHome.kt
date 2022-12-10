@@ -8,36 +8,80 @@ class SmartHome(
 
     //Tv
     fun turnOnTv(){
-        deviceTurnOnCount++
-        smartTvDevice.turnOn()
+        if(smartTvDevice.deviceStatus=="on"){
+            deviceTurnOnCount++
+            smartTvDevice.turnOn()
+        }
     }
 
     fun turnOffTv(){
-        deviceTurnOnCount--
-        smartTvDevice.turnOff()
+        if(smartTvDevice.deviceStatus=="on") {
+            deviceTurnOnCount--
+            smartTvDevice.turnOff()
+        }
     }
 
     fun increaseTvVolume() {
-        smartTvDevice.increaseSpeakerVolume()
+        if(smartTvDevice.deviceStatus=="on") {
+            smartTvDevice.increaseSpeakerVolume()
+        }
+    }
+
+    fun decreaseTvVolume() {
+        if(smartTvDevice.deviceStatus=="on") {
+            smartTvDevice.decreaseVolume()
+        }
     }
 
     fun changeTvChannelToNext() {
-        smartTvDevice.nextChannel()
+        if(smartTvDevice.deviceStatus=="on") {
+            smartTvDevice.nextChannel()
+        }
+    }
+
+    fun changeTvChannelToPrevious() {
+        if(smartTvDevice.deviceStatus=="on") {
+            smartTvDevice.previousChannel()
+        }
+    }
+
+    fun printSmartTvInfo() {
+        if(smartTvDevice.deviceStatus=="on") {
+            smartTvDevice.printDeviceInfo()
+        }
     }
 
     //Light
     fun turnOnLight() {
-        deviceTurnOnCount++
-        smartLightDevice.turnOn()
+        if(smartLightDevice.deviceStatus=="on") {
+            deviceTurnOnCount++
+            smartLightDevice.turnOn()
+        }
     }
 
     fun turnOffLight() {
-        deviceTurnOnCount--
-        smartLightDevice.turnOff()
+        if(smartLightDevice.deviceStatus=="on") {
+            deviceTurnOnCount--
+            smartLightDevice.turnOff()
+        }
     }
 
     fun increaseLightBrightness() {
-        smartLightDevice.increaseBrightness()
+        if(smartLightDevice.deviceStatus=="on") {
+            smartLightDevice.increaseBrightness()
+        }
+    }
+
+    fun decreaseLightBrightness() {
+        if(smartLightDevice.deviceStatus=="on") {
+            smartLightDevice.decreaseBrightness()
+        }
+    }
+
+    fun printSmartLightInfo() {
+        if(smartLightDevice.deviceStatus=="on") {
+            smartLightDevice.printDeviceInfo()
+        }
     }
 
     //All devices

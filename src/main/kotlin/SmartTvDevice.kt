@@ -25,9 +25,9 @@ class SmartTvDevice(deviceName: String, deviceCategory: String) :
         println("Speaker volume increased to $speakerVolume.")
     }
 
-    fun decreaseSpeakerVolume() {
+    fun decreaseVolume() {
         speakerVolume--
-        println("Speaker volume increased to $speakerVolume.")
+        println("Speaker volume decreased to $speakerVolume.")
     }
 
     fun nextChannel() {
@@ -37,5 +37,7 @@ class SmartTvDevice(deviceName: String, deviceCategory: String) :
 
     fun previousChannel() {
         channelNumber--
+        println("Channel number decreased to $channelNumber.")
+
     }
 }
