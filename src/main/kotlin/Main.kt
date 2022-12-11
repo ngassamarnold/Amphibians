@@ -63,6 +63,16 @@ fun main(args: Array<String>) {
 
     amanda.showProfile()
     atiqah.showProfile()
+
+    println()
+    println("Tp Phone fold")
+    val newFoldablePhone = FoldablePhone()
+    newFoldablePhone.switchOn()
+    newFoldablePhone.checkPhoneScreenLight()
+    newFoldablePhone.unFold()
+    newFoldablePhone.switchOn()
+    newFoldablePhone.checkPhoneScreenLight()
+
 }
 
 val coins:(Int)-> String ={
