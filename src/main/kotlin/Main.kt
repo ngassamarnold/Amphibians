@@ -49,6 +49,12 @@ fun main(args: Array<String>) {
     printFinalTemperature(27.0,"Celsius","Fahrenheit") {(9.0 / 5.0 * it) + 32 }
     printFinalTemperature(350.0,"Kelvin","Celsius") { kelvin -> kelvin - 273.15 }
     printFinalTemperature(10.0,"Fahrenheit","Kelvin"){fahrenheit-> 5.0/9.0*(fahrenheit-32)+273.15 }
+
+    println()
+    println("Song")
+    val son=Song(title = "Collez la petite", artist ="Maalhoox", yearPublished = 2018, playCount = 100 )
+    son.printDescription()
+    println("isPopular ${son.isPopular}")
 }
 
 val coins:(Int)-> String ={
