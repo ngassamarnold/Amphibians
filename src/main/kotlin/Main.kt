@@ -55,6 +55,14 @@ fun main(args: Array<String>) {
     val son=Song(title = "Collez la petite", artist ="Maalhoox", yearPublished = 2018, playCount = 100 )
     son.printDescription()
     println("isPopular ${son.isPopular}")
+
+    println()
+    println("Profil Internet")
+    val amanda = Person("Amanda", 33, "Football", null)
+    val atiqah = Person("Atiqah", 28, "climb", amanda)
+
+    amanda.showProfile()
+    atiqah.showProfile()
 }
 
 val coins:(Int)-> String ={
