@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc853258-9be3-4536-840d-a384d14b0764" name="Changes" comment="Separeted class to file Main.kt">
+    <list default="true" id="fc853258-9be3-4536-840d-a384d14b0764" name="Changes" comment="TP class vente enchère">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SmartDevice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SmartDevice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SmartHome.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SmartHome.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SmartLightDevice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SmartLightDevice.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SmartTvDevice.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SmartTvDevice.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +44,13 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainKt" />
+      <module name="trainning" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,6 +62,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.MainKt" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -84,7 +91,49 @@
       <option name="project" value="LOCAL" />
       <updated>1670582315549</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Complete class in kotlin">
+      <created>1670661761490</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670661761491</updated>
+    </task>
+    <task id="LOCAL-00004" summary="TP ticket de cinema et conversion de temperature">
+      <created>1670751739655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1670751739655</updated>
+    </task>
+    <task id="LOCAL-00005" summary="TP class song">
+      <created>1670756919338</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1670756919338</updated>
+    </task>
+    <task id="LOCAL-00006" summary="TP class Person">
+      <created>1670759452788</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1670759452788</updated>
+    </task>
+    <task id="LOCAL-00007" summary="TP class Phone fold">
+      <created>1670761295302</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1670761295302</updated>
+    </task>
+    <task id="LOCAL-00008" summary="TP class vente enchère">
+      <created>1670762960029</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1670762960029</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -101,6 +150,12 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Relation entre les classes (Héritage) et visibilité" />
     <MESSAGE value="Separeted class to file Main.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Separeted class to file Main.kt" />
+    <MESSAGE value="Complete class in kotlin" />
+    <MESSAGE value="TP ticket de cinema et conversion de temperature" />
+    <MESSAGE value="TP class song" />
+    <MESSAGE value="TP class Person" />
+    <MESSAGE value="TP class Phone fold" />
+    <MESSAGE value="TP class vente enchère" />
+    <option name="LAST_COMMIT_MESSAGE" value="TP class vente enchère" />
   </component>
 </project>
