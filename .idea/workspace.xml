@@ -1,24 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
+    <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc853258-9be3-4536-840d-a384d14b0764" name="Changes" comment="TP class vente enchère">
+    <list default="true" id="4e2071f9-5ce4-47ee-81ea-4bbb8c7a7bdf" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grille/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Grille/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/data/DataSource.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/data/DataSource.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/model/Topic.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/model/Topic.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/ui/components/CardGrid.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Grille/app/src/main/java/com/example/grille/ui/components/CardGrid.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grille/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Grille/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Grille/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Grille/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/model/Hero.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/model/Hero.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/model/HeroesRepository.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/model/HeroesRepository.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/components/HeroesScreen.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/components/HeroesScreen.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Color.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Color.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Shapes.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Shapes.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Theme.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Theme.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Type.kt" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/java/com/trainning/superheroes/ui/theme/Type.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-hdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-hdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-mdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-mdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-xhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-xhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-xxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-xxxhdpi/ic_launcher.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.webp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Superheroes/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Superheroes/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCompose/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestCompose/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCompose/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestCompose/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCompose/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestCompose/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCompose/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestCompose/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCompose/app/src/main/java/com/app/trainning/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/TestCompose/app/src/main/java/com/app/trainning/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestCompose/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/TestCompose/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-android-kotlin-compose-training-unscramble/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/basic-android-kotlin-compose-training-unscramble/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/unscramble/data/WordsData.kt" beforeDir="false" afterPath="$PROJECT_DIR$/basic-android-kotlin-compose-training-unscramble/app/src/main/java/com/example/unscramble/data/WordsData.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-        <option value="Kotlin Class" />
-      </list>
-    </option>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[/Users/macbook/.android/avd/Resizable_Experimental_API_33.avd]" />
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -26,7 +73,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2Idiune4OSLXC1cxImE3BGlSnK4" />
+  <component name="ProjectId" id="2b7QqVRfk61wSXZxRBJA5YSZiVD" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -36,104 +83,81 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/Users/macbook/Documents/trainning",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cidr.known.project.marker": "true",
+    "com.intellij.openapi.externalSystem.service.settings.ExternalSystemGroupConfigurable": "ALL",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MainKt" />
-      <module name="trainning" />
+    <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="Amphibians.app.main" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ALL_USERS" value="false" />
+      <option name="ALWAYS_INSTALL_WITH_PM" value="false" />
+      <option name="CLEAR_APP_STORAGE" value="false" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="INSPECTION_WITHOUT_ACTIVITY_RESTART" value="false" />
+      <option name="TARGET_SELECTION_MODE" value="DEVICE_AND_SNAPSHOT_COMBO_BOX" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Java/Kotlin Method Sample (legacy)" />
+        <option name="STARTUP_NATIVE_MEMORY_PROFILING_ENABLED" value="false" />
+        <option name="NATIVE_MEMORY_SAMPLE_RATE_BYTES" value="2048" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <option name="SEARCH_ACTIVITY_IN_GLOBAL_SCOPE" value="false" />
+      <option name="SKIP_ACTIVITY_VALIDATION" value="false" />
       <method v="2">
-        <option name="Make" enabled="true" />
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Kotlin.MainKt" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="fc853258-9be3-4536-840d-a384d14b0764" name="Changes" comment="" />
-      <created>1670518091362</created>
+      <changelist id="4e2071f9-5ce4-47ee-81ea-4bbb8c7a7bdf" name="Changes" comment="" />
+      <created>1705563828567</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1670518091362</updated>
+      <updated>1705563828567</updated>
     </task>
-    <task id="LOCAL-00001" summary="Relation entre les classes (Héritage) et visibilité">
-      <created>1670570466867</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1670570466867</updated>
-    </task>
-    <task id="LOCAL-00002" summary="Separeted class to file Main.kt">
-      <created>1670582315549</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1670582315549</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Complete class in kotlin">
-      <created>1670661761490</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1670661761491</updated>
-    </task>
-    <task id="LOCAL-00004" summary="TP ticket de cinema et conversion de temperature">
-      <created>1670751739655</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1670751739655</updated>
-    </task>
-    <task id="LOCAL-00005" summary="TP class song">
-      <created>1670756919338</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1670756919338</updated>
-    </task>
-    <task id="LOCAL-00006" summary="TP class Person">
-      <created>1670759452788</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1670759452788</updated>
-    </task>
-    <task id="LOCAL-00007" summary="TP class Phone fold">
-      <created>1670761295302</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1670761295302</updated>
-    </task>
-    <task id="LOCAL-00008" summary="TP class vente enchère">
-      <created>1670762960029</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1670762960029</updated>
-    </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -146,16 +170,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="Relation entre les classes (Héritage) et visibilité" />
-    <MESSAGE value="Separeted class to file Main.kt" />
-    <MESSAGE value="Complete class in kotlin" />
-    <MESSAGE value="TP ticket de cinema et conversion de temperature" />
-    <MESSAGE value="TP class song" />
-    <MESSAGE value="TP class Person" />
-    <MESSAGE value="TP class Phone fold" />
-    <MESSAGE value="TP class vente enchère" />
-    <option name="LAST_COMMIT_MESSAGE" value="TP class vente enchère" />
   </component>
 </project>

@@ -16,9 +16,6 @@
 
 package com.example.unscramble.data
 
-import androidx.compose.ui.res.stringResource
-import com.example.unscramble.R
-
 const val MAX_NO_OF_WORDS = 10
 const val SCORE_INCREASE = 20
 
